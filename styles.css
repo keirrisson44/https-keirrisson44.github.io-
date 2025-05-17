@@ -1,0 +1,28 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.bb {
+    
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cartao {
+     background-color: #b2f2bb;
+  width: 160px;
+  
+  margin: 10px;
+  text-align: center;
+  padding: 6px;
+  font-size: 10px;
+}
+.minhas{
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}

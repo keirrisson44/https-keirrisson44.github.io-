@@ -1,6 +1,6 @@
 body { 
     background: Orange;
-    color: azul;
+    color:blue;
 }
 
 header {
@@ -30,3 +30,5 @@ header {
     align-items: center;
     padding: 20px;
 }
+.links2 {
+    color: Black;

@@ -13,12 +13,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 40px;
   
 }
 .cartao {
      background-color: #b2f2bb;
-  width: 140px;
+  width: 160px;
   
   margin: 10px;
   text-align: center;

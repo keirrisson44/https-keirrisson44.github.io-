@@ -10,10 +10,11 @@ header {
     padding: 20px;
 }
 .bb {
-    
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  
 }
 .cartao {
      background-color: #b2f2bb;

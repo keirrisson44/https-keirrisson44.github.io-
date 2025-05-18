@@ -1,6 +1,6 @@
 body { 
-    background: Orange;
-    color:blue;
+    background: black;
+    color:white;
 }
 
 header {
@@ -31,4 +31,5 @@ header {
     padding: 20px;
 }
 .links2 {
-    color: Black;
+    color:white;
+}
